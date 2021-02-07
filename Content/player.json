@@ -1,0 +1,25 @@
+{
+  "player": {
+    "name": "ben",
+    "HP": 30,
+    "MP": 10,
+    "AP": 4.5,
+    "inventory": [
+      {
+        "id": 1,
+        "name": "sword",
+        "count": 1
+      },
+      {
+        "id": 2,
+        "name": "knife",
+        "count": 1
+      },
+      {
+        "id": 3,
+        "name": "rocks",
+        "count": 4
+      }
+    ]
+  }
+}
